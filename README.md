@@ -1,17 +1,29 @@
 # PasswordWorld
+<style>
+    .smaller-image {
+        width: 300px;
+    }
+    .center-images {
+        text-align: center;
+    }
+</style>
 <p>
-This is a simple password storage application that I created when I was in school. 
+    This is a simple password storage application that I created when I was in school.
 </p>
-<p>
-  <ul>
+<ul>
     <li>
-    Java
+        Java
     </li>
     <li>
-    Swing
+        Swing
     </li>
     <li>
-    Apache Derby
+        Apache Derby
     </li>
-  </ul>
-</p>
+</ul>
+<div class="center-images">
+    <img class="smaller-image" src="github pictures/FirstLogin.jpg">
+    <img class="smaller-image" src="github pictures/MainScreen.jpg">
+    <img class="smaller-image" src="github pictures/SecondLogin.jpg">
+
+</div>
