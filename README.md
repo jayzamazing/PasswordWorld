@@ -1,12 +1,4 @@
 # PasswordWorld
-<style>
-    .smaller-image {
-        width: 300px;
-    }
-    .center-images {
-        text-align: center;
-    }
-</style>
 <p>
     This is a simple password storage application that I created when I was in school.
 </p>
